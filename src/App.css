@@ -1,0 +1,11 @@
+
+img{
+  width: 100%;
+}
+.col{
+  border: 1px solid lightgray;
+  padding: 5px;
+}
+label{
+  display: block;
+}
